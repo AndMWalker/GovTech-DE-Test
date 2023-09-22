@@ -1,3 +1,3 @@
 # GovTech-DE-Test
 
-![image](Architecture.png)
+![image](Architecture.png?raw=true)

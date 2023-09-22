@@ -1,13 +1,8 @@
 # GovTech-DE-Test
 
-Imports used:
-import json
-import requests
-import pandas as pd
-from datetime import datetime
+Imports used: import json, import requests, import pandas as pd, from datetime import datetime
 
-also openpyxl to open excel files in python
-Might have to pip install missing modules if running the python scripts give errors
+Also openpyxl to open excel files in python, might have to pip install missing modules if running the python scripts give errors
 
 Task 1: Creating restaurant.csv
 1) Download Country-Code.xlsx and create_restaurants.py
